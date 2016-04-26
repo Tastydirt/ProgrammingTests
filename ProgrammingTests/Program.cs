@@ -11,6 +11,7 @@ namespace ProgrammingTests
 
         private static void Main(string[] args)
         {
+            //Test comment
             // instantiate the Test Repo
             _testRepository = new TestRepository();
 
